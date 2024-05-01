@@ -1,0 +1,13 @@
+{
+  "name": "js-tamagotchi",
+  "version": "1.0.0",
+  "description": "this is a little test for the understanding of js classes",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

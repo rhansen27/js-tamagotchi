@@ -1,4 +1,4 @@
-class Tamagotchi {
+export default class Tamagotchi {
   constructor(name) {
     this.name = name;
     this.hunger = 0;
@@ -24,5 +24,3 @@ class Tamagotchi {
     this.alive = false;
   }
 }
-
-export default Tamagotchi;
