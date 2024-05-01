@@ -25,7 +25,4 @@ class Tamagotchi {
   }
 }
 
-var newDate = new Date();
-let time = newDate.getTime();
-
-console.log(time);
+export default Tamagotchi;
